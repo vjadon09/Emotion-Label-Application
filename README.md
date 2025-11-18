@@ -1,9 +1,9 @@
-,# Emotion-Detection-Application
+# Emotion-Detection-Application
 Detects and labels facial emotions
 
 
 <p align="center">
-  <img src="assets/banner/banner2.png" width="100%" alt="Project Banner">
+  <img src="asset/banner/banner2.png" width="100%" alt="Project Banner">
 </p>
 
 # Installation Guide: Emotion Detection App
